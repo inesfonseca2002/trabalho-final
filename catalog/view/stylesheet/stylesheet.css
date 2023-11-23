@@ -232,7 +232,7 @@ footer a {
 /* menu */
 #menu {
   background-color: #229ac8;
-  background-image: linear-gradient(to bottom, #23a1d1, #1f90bb);
+  background-image: linear-gradient(to bottom, #4A621E, #4A621E);
   background-repeat: repeat-x;
   border: 1px solid #1f90bb;
   border-color: #1f90bb #1f90bb #145e7a;
@@ -257,7 +257,7 @@ footer a {
 }
 #menu .dropdown-inner ul li a:hover {
   color: #ffffff;
-  background-image: linear-gradient(to bottom, #23a1d1, #1f90bb);
+  background-color:#4a621e;
 }
 #menu .dropdown-inner a {
   min-width: 160px;
@@ -608,9 +608,9 @@ footer h5 {
   color: #FFF;
   padding: 6px 12px;
   background-color: #229ac8;
-  background-image: linear-gradient(to bottom, #23a1d1, #1f90bb);
+  background-image: linear-gradient(to bottom, #84C327, #84C327);
   background-repeat: repeat-x;
-  border-color: #1f90bb #1f90bb #145e7a;
+  border-color: #000000 #000000 #000000;
 }
 .form-check .form-check-input {
   margin-top: 0.25rem;
@@ -641,4 +641,9 @@ footer h5 {
 #cookie div {
   font-size: 16px;
   color: #FFFFFF;
+}
+
+.list-group-item.active {
+  background-color: #4A621E!important;
+  border-color: #4A621E!important;
 }
