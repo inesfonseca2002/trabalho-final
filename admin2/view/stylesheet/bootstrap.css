@@ -2605,14 +2605,14 @@ textarea.form-control-lg {
 }
 .btn-primary {
   --bs-btn-color: #fff;
-  --bs-btn-bg: #1e91cf;
+  --bs-btn-bg: #84C327;
   --bs-btn-border-color: #1e91cf;
   --bs-btn-hover-color: #fff;
-  --bs-btn-hover-bg: #1a7bb0;
+  --bs-btn-hover-bg: #84C327;
   --bs-btn-hover-border-color: #1874a6;
   --bs-btn-focus-shadow-rgb: 64, 162, 214;
   --bs-btn-active-color: #fff;
-  --bs-btn-active-bg: #1874a6;
+  --bs-btn-active-bg: #84C327;
   --bs-btn-active-border-color: #176d9b;
   --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
   --bs-btn-disabled-color: #fff;
@@ -2653,14 +2653,14 @@ textarea.form-control-lg {
 }
 .btn-info {
   --bs-btn-color: #fff;
-  --bs-btn-bg: #54b7d3;
-  --bs-btn-border-color: #54b7d3;
+  --bs-btn-bg: #84C327;
+  --bs-btn-border-color: #84C327;
   --bs-btn-hover-color: #fff;
-  --bs-btn-hover-bg: #479cb3;
-  --bs-btn-hover-border-color: #4392a9;
+  --bs-btn-hover-bg: #84C327;
+  --bs-btn-hover-border-color: #84C327;
   --bs-btn-focus-shadow-rgb: 110, 194, 218;
   --bs-btn-active-color: #fff;
-  --bs-btn-active-bg: #4392a9;
+  --bs-btn-active-bg: #84C327;
   --bs-btn-active-border-color: #3f899e;
   --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
   --bs-btn-disabled-color: #fff;
@@ -4152,8 +4152,8 @@ textarea.form-control-lg {
 .page-link.disabled, .disabled > .page-link {
   color: var(--bs-pagination-disabled-color);
   pointer-events: none;
-  background-color: var(--bs-pagination-disabled-bg);
-  border-color: var(--bs-pagination-disabled-border-color);
+  background-color: #84C327;
+  border-color: #84C327;
 }
 .page-item:not(:first-child) .page-link {
   margin-left: calc(var(--bs-border-width) * -1);
@@ -10675,7 +10675,7 @@ textarea.form-control-lg {
   font-size: 0.9375rem;
 }
 .btn-primary {
-  --bs-btn-border-color: #1872a2;
+  --bs-btn-border-color: #84C327;
   --bs-btn-hover-border-color: #0b3349;
 }
 .btn-secondary {
@@ -10687,7 +10687,7 @@ textarea.form-control-lg {
   --bs-btn-hover-border-color: #1e4b1e;
 }
 .btn-info {
-  --bs-btn-border-color: #32a2c2;
+  --bs-btn-border-color: #84C327;
   --bs-btn-hover-border-color: #1d5e71;
 }
 .btn-warning {

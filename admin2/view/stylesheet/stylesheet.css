@@ -287,7 +287,7 @@ a {
 }
 
 #menu > li.active > a {
-    color: #0b91d2;
+    color: #84C327;
 
     background-color: #171b21;
 }
@@ -321,7 +321,7 @@ a {
 }
 
 #menu li li.active > a {
-    color: #0b91d2;
+    color: #84C327;
     background-color: #242d37;
 }
 
@@ -529,7 +529,7 @@ div.required .col-form-label:not(span):before, td.required:before {
 }
 
 .tile-primary {
-    background-color: #1b80c2;
+    background-color: #84C327;
 }
 
 .tile-success {
